@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-promesse-de-laube/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for La Promesse De L'aube](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-promesse-de-laube/) |
+| **Get License** | [Official Music Licensing for La Promesse De L'aube](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-promesse-de-laube/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans les reflets des néons, t'es la seule que je vois
+> Midnight fever, baby, viens un peu plus près de moi
+> On laisse la ville s'éteindre, just you and me ce soir
+> C'est la promesse de l'aube, notre histoire dans le noir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
