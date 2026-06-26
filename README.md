@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-promesse-de-laube/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for La Promesse De L'aube](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-promesse-de-laube/) |
+| **Get License** | [Music Rights & Licensing for La Promesse De L'aube](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-promesse-de-laube/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `84e80acc95d6e5330715a8276d268efadcf49f4a994318ec30156ee0415c5975` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
